@@ -1,2 +1,2 @@
 SECOND FILE
-[back](main)
+[back](main.md)

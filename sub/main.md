@@ -1,3 +1,3 @@
-- [first file](first_file_markdown)
-- [second file](second_file_markdown)
-- [home](../README)
+- [first file](first_file_markdown.md)
+- [second file](second_file_markdown.md)
+- [home](../README.md)
